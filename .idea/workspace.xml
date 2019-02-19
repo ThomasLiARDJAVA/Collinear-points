@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e65a87c-46f6-476d-8021-9bf83012de50" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="128" column="7" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3551#3552#0" expanded="true" />
+                <element signature="e#3593#3594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BruteCollinearPointsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BruteCollinearPointsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="112" column="38" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3495#3496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input40.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collinear-test-files/input40.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="input40.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collinear-test-files/input40.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="FastCollinearPointsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FastCollinearPointsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="89" selection-start-line="89" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LineSegment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LineSegment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FastCollinearPoints.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FastCollinearPoints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#3801#3802#0" expanded="true" />
+                <element signature="e#3843#3844#0" expanded="true" />
+                <element signature="e#3924#3925#0" expanded="true" />
+                <element signature="e#3967#3968#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollinearPointsDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CollinearPointsDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BruteCollinearPoints.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BruteCollinearPoints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#1793#1794#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>numberofSegments</find>
+      <find>number</find>
+      <find>args</find>
+      <find>iscoll</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.3" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="collinear-points-student" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="collinear-points-student" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'collinear-points-student'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'collinear-points-student'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'collinear-points-student'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run Checkstyle analysis for test classes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkstyleTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'collinear-points-student'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run Checkstyle analysis for main classes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkstyleMain" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'collinear-points-student'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'collinear-points-student'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'collinear-points-student'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'collinear-points-student'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'collinear-points-student'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6198596910000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2018082078" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="447191019" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1489977634" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="collinear-points-student" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-native-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-runtime-api-info-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-wrapper-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-logging-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-installation-beacon-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-base-services-groovy-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-model-core-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-core-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-build-cache-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-kotlin-dsl-tooling-builders-0.12.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-process-services-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-cli-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-docs-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-persistent-cache-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-base-services-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-build-option-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-messaging-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-jvm-services-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-launcher-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-kotlin-dsl-0.12.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-resources-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-model-groovy-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-core-api-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-kotlin-dsl-tooling-models-0.12.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/gradle-tooling-api-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-platform-native-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-jacoco-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-plugins-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-build-comparison-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-language-native-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-version-control-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-javascript-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-ide-play-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-language-scala-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-tooling-api-builders-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-announce-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-plugin-use-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-platform-base-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-language-jvm-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-ear-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-publish-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-composite-builds-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-dependency-management-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-testing-native-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-build-cache-http-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-workers-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-plugin-development-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-diagnostics-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-ide-native-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-antlr-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-reporting-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-osgi-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-language-java-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-language-groovy-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-scala-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-resources-http-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-platform-play-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-ide-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-resources-gcs-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-maven-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-platform-jvm-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-testing-base-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-testing-jvm-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-build-init-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-test-kit-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-ivy-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-resources-sftp-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-signing-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-resources-s3-4.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/lib/plugins/gradle-code-quality-4.3.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../amazeing-student-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../inheritance-background-hannahbauer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../postfix-evaluator-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LineSegment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FastCollinearPointsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PointTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FastCollinearPoints.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CollinearPointsDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BruteCollinearPoints.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BruteCollinearPointsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="collinear-points-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collinear-points-student-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="collinear-points-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collinear-points-student-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collinear-points-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collinear-points-student-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="collinear-points-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collinear-points-student-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collinear-points-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collinear-points-student-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="collinear-points-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collinear-points-student-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BruteCollinearPointsTest">
+    <configuration name="CollinearPointsDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollinearPointsDriver" />
+      <module name="collinear-points-student_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="collinear-points-student_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BruteCollinearPointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collinear-points-student_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPointsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FastCollinearPointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collinear-points-student_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPointsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collinear-points-student_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BruteCollinearPointsTest" />
+      <item itemvalue="JUnit.PointTest" />
+      <item itemvalue="Application.FastCollinearPoints" />
+      <item itemvalue="JUnit.FastCollinearPointsTest" />
+      <item itemvalue="Application.CollinearPointsDriver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BruteCollinearPointsTest" />
+        <item itemvalue="Application.CollinearPointsDriver" />
+        <item itemvalue="JUnit.FastCollinearPointsTest" />
+        <item itemvalue="Application.FastCollinearPoints" />
+        <item itemvalue="JUnit.PointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e65a87c-46f6-476d-8021-9bf83012de50" name="Default" comment="" />
+      <created>1549915531254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549915531254</updated>
+      <workItem from="1549915535018" duration="405000" />
+      <workItem from="1549932031947" duration="6853000" />
+      <workItem from="1550191155096" duration="6258000" />
+      <workItem from="1550513133157" duration="5078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BruteCollinearPointsTest - 2019.02.11 at 16h 47m 19s.xml">
+      <configuration name="BruteCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest - 2019.02.11 at 17h 58m 00s.xml">
+      <configuration name="PointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PointTest - 2019.02.11 at 18h 00m 27s.xml">
+      <configuration name="PointTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BruteCollinearPointsTest - 2019.02.14 at 17h 17m 14s.xml">
+      <configuration name="BruteCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastCollinearPointsTest - 2019.02.14 at 18h 29m 15s.xml">
+      <configuration name="FastCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastCollinearPointsTest - 2019.02.14 at 18h 42m 18s.xml">
+      <configuration name="FastCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BruteCollinearPointsTest - 2019.02.18 at 10h 31m 19s.xml">
+      <configuration name="BruteCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BruteCollinearPointsTest - 2019.02.18 at 10h 33m 46s.xml">
+      <configuration name="BruteCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BruteCollinearPointsTest - 2019.02.18 at 10h 37m 01s.xml">
+      <configuration name="BruteCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BruteCollinearPointsTest - 2019.02.18 at 10h 37m 21s.xml">
+      <configuration name="BruteCollinearPointsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18594000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992035" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32992035" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32954547" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="135" column="7" lean-forward="true" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3551#3552#0" expanded="true" />
+            <element signature="e#3593#3594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BruteCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3495#3496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collinear-test-files/input40.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collinear-test-files/input40.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FastCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LineSegment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FastCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3801#3802#0" expanded="true" />
+            <element signature="e#3843#3844#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3967#3968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BruteCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CollinearPointsDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3551#3552#0" expanded="true" />
+            <element signature="e#3593#3594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FastCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="127" column="36" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="92" column="50" selection-start-line="83" selection-start-column="3" selection-end-line="92" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LineSegment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FastCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="72" column="62" lean-forward="true" selection-start-line="72" selection-start-column="62" selection-end-line="72" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3801#3802#0" expanded="true" />
+            <element signature="e#3843#3844#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3967#3968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CollinearPointsDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BruteCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BruteCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3495#3496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="137" column="7" selection-start-line="137" selection-start-column="7" selection-end-line="137" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3551#3552#0" expanded="true" />
+            <element signature="e#3593#3594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BruteCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3495#3496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FastCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LineSegment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CollinearPointsDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FastCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="108" column="7" lean-forward="true" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3801#3802#0" expanded="true" />
+            <element signature="e#3843#3844#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3967#3968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="89" selection-start-line="89" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collinear-test-files/input40.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collinear-test-files/input40.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CollinearPointsDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LineSegment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="128" column="7" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3551#3552#0" expanded="true" />
+            <element signature="e#3593#3594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BruteCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="112" column="38" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3495#3496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FastCollinearPointsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FastCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3801#3802#0" expanded="true" />
+            <element signature="e#3843#3844#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3967#3968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BruteCollinearPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>collinear-points-student</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
